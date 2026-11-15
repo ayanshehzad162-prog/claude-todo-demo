@@ -1,0 +1,8 @@
+# Packages to remove with:  scripts/tv.sh remove scripts/packages.txt
+# One package per line. Lines starting with # are ignored.
+#
+# DO NOT guess names. Run `scripts/tv.sh list`, send packages_all.txt to Claude,
+# and fill this file from the reviewed list for your AXEN 43J9000.
+# Never remove: com.android.*, com.google.android.gms, com.google.android.gsf,
+# com.google.android.tvlauncher (until the new launcher is confirmed working),
+# the TV input / tuner / settings packages, or anything you do not recognise.
